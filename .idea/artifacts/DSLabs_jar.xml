@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="DSLabs:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DSLabs_jar</output-path>
+    <root id="archive" name="DSLabs.jar">
+      <element id="module-output" name="DSLabs" />
+    </root>
+  </artifact>
+</component>
